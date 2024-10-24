@@ -1,6 +1,4 @@
 
----
-
 # User Authentication & Profile Management System (MySQL)
 
 ## Objective
@@ -36,5 +34,4 @@ This project demonstrates the development of a **User Authentication System** us
 ### Database:
 - **MySQL** for user data storage
 
----
 
